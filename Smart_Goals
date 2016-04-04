@@ -5,68 +5,83 @@ Smart Goals
   Warding
   Objectives
   Champions
-    Irelia
-      Q
-        Dodge an enemy skill shot 4 times in a match by using Q to dash to a minion
-      W
-      E
-        Flash E to stun someone and get a pick 3 times in a match
-      R
-        Use your ultimate to bring a minion into execute range then Q to it 5 times in a match
-    Malphite
-      Q
-        Use Q to escape a gank 3 times in a match
-      W
-        Use W to get 7 CS under tower in a match
-      E
-      R
-        As Malphite from 6:00 till Game End use your ultimate to CC 2 or more champions 5 times. CC at least 3 people with an ultimate once.
-          S: Yes, Focuses on a single champion's ability
-          M: 4/5, 1/1
-          A: Yes, 
-          R: Yes, Malphite's ultimate is game changing because it is AoE CC that cannot be reduced by tenacity. It is a great engage tool and also a way to peel.
-          T: 3/14/15-3/15/15
-    Fiora
-      Q
-      W
-      E
-      R
-    Poppy
-      Q
-      W
-      E
-      R
-    Jax
-      Q
-        Use this to cancel an auto animation
-      W
-        Use this to reset your auto timer
-      E
-        Learn when to use this for trading and when you just need the CC
-      R
-        Use this in all-ins, escaping ganks or when you go in in a teamfight
-    Trundle
-      Q
-      W
-      E
-      R
-    Gnar
-      Q
-      W
-      E
-      R
-    Hecarim
-      Q
-      W
-      E
-      R
-      Use your E to knock someone back into your teammate 3 times in a match
-      E + Q as a combo 5 times in a match
-    Fizz
-      Q
-      W
-      E
-      R
+    Primary Champions
+      Irelia
+        Q
+          Dodge an enemy skill shot 4 times in a match by using Q to dash to a minion
+        W
+        E
+          Flash E to stun someone and get a pick 3 times in a match
+        R
+          Use your ultimate to bring a minion into execute range then Q to it 5 times in a match
+      Jax
+        Q
+          Use this to cancel an auto animation
+        W
+          Use this to reset your auto timer
+        E
+          Learn when to use this for trading and when you just need the CC
+        R
+          Use this in all-ins, escaping ganks or when you go in in a teamfight
+      Trundle
+        Q
+        W
+        E
+        R
+      Poppy
+        Q
+        W
+        E
+        R
+    Secondary Champions
+      Fiora
+        Passive
+          As Fiora from 2:00 till Lane End hit 7 Vitals. Hit 2 Vitals in a single trade.
+            S: Yes, Focuses on a single champion's ability
+            M: Yes, 7/7, 1/1
+            A: Yes, Focuses mainly on me and slightly on my lane opponent
+            R: Yes, Hitting Vitals maximizes Fiora's damage
+            T: 3/15/15-3/15/15
+            E: Make the goal harder. From 2:00 till Lane End hit 14 Vitals. Use your Ultimate to reset the Vitals in an all-in.
+            R: 14/14, 1/1
+        Q
+        W
+          As Fiora from 3:15 till Game End use your W to dodge 7 CCs from the enemy. Use your W to stun an enemy 3 times.
+            S: Yes, Focuses on a single champion's ability
+            M: Yes, 7/7, 4/3
+            A: So-so, enemy team could not have CC
+            R: Yes, Proper use of this ability is the difference between winning and losing lane, as well as teamfights
+            T: 3/14/15-3/14/15
+            E: Make the goal harder. From 3:15 till Game End use your W to dodge 10 CCs or burst abilities from the enemy. Use your W in a skirmish 3 times to parry a CC or Ultimate.
+            R: 6/10, 3/3
+        E
+        R
+          As Fiora hit all 4 Vitals on your ultimate 5 times. Do this twice in a teamfight.
+            S: Yes, Focuses on a single champion's ability
+            M: Yes, 3/5, 0/2
+            A: So-so, relies a little on the enemy, enemy can flash over walls, get to their team or die before I can hit all 4 vitals
+            R: Yes, triggering the heal from the ultimate can win a fight
+            T: 3/18/16-3/19/16
+            E: Make the goal more attainable. From x till y trigger the heal on your ultimate 5 times. Trigger it twice in a skirmish.
+            R: 4/5, 2/2
+      Malphite
+        Q
+          Use Q to escape a gank 3 times in a match
+        W
+          Use W to get 7 CS under tower in a match
+        E
+        R
+          As Malphite from 6:00 till Game End use your ultimate to CC 2 or more champions 5 times. CC at least 3 people with an ultimate once.
+            S: Yes, Focuses on a single champion's ability
+            M: 4/5, 1/1
+            A: Yes, 
+            R: Yes, Malphite's ultimate is game changing because it is AoE CC that cannot be reduced by tenacity. It is a great engage tool and also a way to peel.
+            T: 3/14/15-3/15/15
+      Fizz
+        Q
+        W
+        E
+        R
   Summoner Spells
     Teleport
     Flash
