@@ -21,36 +21,21 @@ Mechanics Routine – Every Day
       Each bot kill as 1 CS
   Champions
     Primary Champion Pool
-      Irelia: 18/0/12 or 18/12/0
-        Free Farming with 14% AS + 8.5 AD: 44 CHECK
+      Irelia: 18/12/0 or 18/0/12
         Free Farming with 29% AS: 44 CHECK
+        Free Farming with 14% AS + 8.5 AD: 44 CHECK
         Spell Farming: Q, W, E
         Animation Cancels
           Farming with 10 cancels: 44
         Map Awareness
-          Farming with 10 glances: 44
+          Farming with 10 glances: 44 CHECK
+          15 Glances: 44
         Anticipation: 2 Plans to escape from a gank
           Use Q to dash to a minion/champion that is close to my tower
           Use E on the enemy with a slow/red buff
           Use R to heal through the gank
-      Jax: 18/12/0
-        Free Farming with 14% AS + 8.5 AD: 44
-        Farming vs Bots:
-        Spell Farming: Q
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
       Trundle: 12/0/18
-        Free Farming with 14% AS + 8.5 AD: 44
-        Farming vs Bots:
-        Spell Farming: Q
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
-          Use W to run to safety
-          Use E to trap the enemy with CC/red buff
-          Use R on the tankier enemy to heal through the gank
-      Poppy: 0/12/18
+        Free Farming with 14% AS + 8.5 AD: 44 CHECK
         Free Farming with 15 AD: 44
         Free Farming with 14% AS + 8.5 AD: 44
         Farming vs Bots:
@@ -63,13 +48,30 @@ Mechanics Routine – Every Day
           Use W to cancel a gap closer/run to safety
           Use E to dash to a minion/champion that is close to my tower and/or stun the champion into terrain
           Use R to knock them away
-      Nautilus: 12/0/18
+      Jax: 18/12/0
+        Free Farming with 14% AS + 8.5 AD: 44
+        Farming vs Bots:
+        Spell Farming: Q
+        Animation Cancels: 10
+        Map Awareness: 10 glances
+        Anticipation: 2 Plans to escape from a gank
+      Ekko: 12/0/18
         Free Farming with 15% AS: 44
         Farming vs Bots:
         Spell Farming: Q
         Animation Cancels: 10
         Map Awareness: 10 glances
         Anticipation: 2 Plans to escape from a gank
+      Malphite: 12/0/18
+        Free Farming with 15% AS: 44
+        Farming vs Bots:
+        Spell Farming: Q, W, E
+        Animation Cancels: 10
+        Map Awareness: 10 glances
+        Anticipation: 2 Plans to escape from a gank
+          Use Q after they use a slow or speed ability
+          Use E to slow the application of red buff
+          Use R to get away
     Secondary Champion Pool
       Fiora: 12/0/18
         Free Farming with 15 AD: 44 CHECK
@@ -84,30 +86,6 @@ Mechanics Routine – Every Day
           Use W to counter a CC AND stun the enemy with a slow/red buff
           Use E to slow an enemy
           Use R to all in the lower health/less tanky enemy
-      Malphite: 12/0/18
-        Free Farming with 15% AS: 44
-        Farming vs Bots:
-        Spell Farming: Q, W, E
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
-          Use Q after they use a slow or speed ability
-          Use E to slow the application of red buff
-          Use R to get away
-      Rammus: 12/0/18
-        Free Farming with 15% AS: 44
-        Farming vs Bots:
-        Spell Farming: Q
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
-      Gangplank
-        Free Farming with 15 AD: 44
-        Farming vs Bots: 43
-        Spell Farming: Q and W
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
       Fizz
         Free Farming with 15 AP + 8 Magic Pen: 44 
         Farming vs Bots: 43
@@ -122,4 +100,10 @@ Mechanics Routine – Every Day
         Map Awareness: 10 glances
         Anticipation: 2 Plans to escape from a gank
         Use W to run away and E to slow down the enemy with CC
-
+      Gangplank
+        Free Farming with 15 AD: 44
+        Farming vs Bots: 43
+        Spell Farming: Q and W
+        Animation Cancels: 10
+        Map Awareness: 10 glances
+        Anticipation: 2 Plans to escape from a gank
