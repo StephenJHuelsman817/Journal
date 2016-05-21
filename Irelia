@@ -15,20 +15,15 @@ Irelia
         Extra attack speed is used against more durable opponents, more attack speed leads to more hits from W which makes longer fights more favorable
       Yellows: 9 Scaling Armor Yellows
       Blues: 9 Scaling Magic Resistance
-    Vs AD
-      Quints: 1 Attack Speed, 2 Armor
-        Extra armor is used here against lane opponents who bully early
-      Reds: 9 Attack Speed
-      Yellows: 9 Scaling Armor Yellows
-      Blues: 9 Scaling Magic Resistance
   Masteries
     Setup 1
-      21/9/0
-      With these masteries and Trinity Force Irelia can kill almost all carries 1v1. She is normally not the primary engage. Her role is to do damage.
-  Builds
-    Core
-      Trinity Force
-        Irelia is able to trigger Sheen often, mainly with her ultimate. Her Q procs on hit effects so it works well with Sheen and Phage. She benefits from every stat on Trinity Force.
+      18/0/12
+        Take Fervor of Battle because Irelia itemizes for Attack Speed
+        Take Insight to make laning easier and to make more TP plays
+  Items
+  Core
+    Trinity Force
+      Irelia is able to trigger Sheen often, mainly with her ultimate. Her Q procs on hit effects so it works well with Sheen and Phage. She benefits from every stat on Trinity Force.
   Offense
     Hexdrinker
       Scales with Q and R. Works well against burst/lots of AP
@@ -44,12 +39,16 @@ Irelia
     Frozen Heart
       Good follow up item to a health item. 
     Randuin’s Omen
+      Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
     Deadman’s Plate
+      TODO test
   Magic Resistance
     Mercury Treads
-    Spirit Visage
-    Banshee’s Veil
+      Good vs numerous(how many?) CCs or a reliable hard CC that will frequently be targeted at you
     Guardian Angel
+      Great late game item, 4th item usually, allows you to dive the backline much easier
+    Spirit Visage
+      Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
   Matchups
     Renekton
     Nasus
