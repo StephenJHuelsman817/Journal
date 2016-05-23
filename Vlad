@@ -2,29 +2,71 @@ Vlad
   Runes
     Standard
       Quints: 3 Movement Speed
-        Scale well with her W which is her main source of damage and is frequently maxed first, scales well with Rageblade and BOTRK, helps last hit
+        Positioning is paramount on Vlad especially for teamfights
+        Allows him to get more harass/trades in with Q and E
+        Helps him escape from ganks
       Reds: 9 Magic Penetration
-        Scales well with her Q and R, scales well with Trinity and Ghostblade, good vs fragile opponents helps last hit
+        Scales with all of his abilities
+        TODO consider something else
       Yellows: 9 Scaling Health
-        Scales well with her W, generally plays a passively in lane before level 4
+        Scales with his Passive, W and E
+        Scales with resistance items such as Abyssal or Hourglass
       Blues: 9 Scaling Ability Power
-        Scales well with her W, most early magic damage can be mitigated by sustain or dodging their abilities
+        Scales with his Passive, Q, E and R
+        Flat AP wouldn't help get a kill in lane
     Vs Magic Damage
       Quints: 3 Movement Speed
       Reds: 9 Magic Penetration
       Yellows: 9 Scaling Health Yellows
       Blues: 9 Magic Resistance
+        Allows for better trades
   Masteries
     Setup 1
       0/18/12
-      TODO add why
-  Builds
+        Take Stormraider's Surge for the same reasons you take movement speed quints
+          E + Q + Auto combo can trigger it early game
+          His AoE triggers it later in the game
+        Take Insight to make laning easier and to make more TP plays
+  Items
     Offense
+      Boots of Swiftness
+        Most frequent boot choice for the same reasons you take MS quints
+      Luden's Echo
+        Gives MS, see MS quints,
+        Time the trigger with your ultimate
+        Scales better with AP + CDR than with Magic Penetration
+        Ratio's on the heal from Q and R put AP + CDR over the top
+      Rabadon's Deathcap
+        Try buying this 5th if you're really fed
+    Health
+      Warmog's Armor
+        The passive is great for sieging/splitting
+        Also has CDR which scales great with Vlad
+        Good item when you don't have much of a front line
+      Liandry's Torment
+        Great item vs enemy front line
+      Rylai's Crystal Scepter
+        Core item on Vlad
+        Slow allows him to keep enemies in range of his abilities
+        Scales well with his passive because it has both AP and Health
     Armor
+      Ninja Tabi
+        Try this out vs heavy auto attack based teams
+      Thornmail
+        Try this out when you're the frontliner against auto attack based teams
+      Zhonya's Hourglass
+        Active helps him teamfight
+        Try to E+Q combo then W then E + Q again then hourglass then E + Q into W
     Magic Resistance
+      Mercury Treads
+        Buy vs hard CC teams
+        Also good vs heavy magic damage teams
+      Abyssal Scepter
+        Magic item when you want more offense
+        Goes well with another magic damage team member
+      Spirit Visage
+        Magic item when you want to survive in fights longer
   Matchups
     Renekton
-    Nasus
-    Hecarim
     Jax
     Rumble
