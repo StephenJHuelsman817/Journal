@@ -29,36 +29,81 @@ Mechanics Routine – Every Day
           Farming with 10 cancels: 44
         Map Awareness
           Farming with 10 glances: 44 CHECK
-          15 glances: 44
-        Anticipation: 2 Plans to escape from a gank
+          15 glances: 44 CHECK
+          20 glances: 44 CHECK
+        Anticipation
+          Use E, W, R, Q on the weaker enemy to kill them before you die
           Use Q to dash to a minion/champion that is close to my tower
           Use E on the enemy with a slow/red buff
           Use R to heal through the gank
       Trundle: 12/0/18
         Free Farming with 14% AS + 8.5 AD: 44 CHECK
-        Free Farming with 9% AS + 8.5 AD: 40
+        Free Farming with 9% AS + 8.5 AD: 44
         Spell Farming: Q
         Animation Cancels
-          Farming witwh 10 cancels: 44
+          Farming with 10 cancels: 44
         Map Awareness
           Farming with 10 glances: 44
-        Anticipation: 2 Plans to escape from a gank
+        Anticipation
           Use W to run away from the gank
           Use E on/near the champion with CC to escape
           Use R on the tankier champion so you can survive the gank
           Use R on the lower health champion so you can kill them before you die
       Vlad: 0/18/12
-        Free Farming with 0 AP and 4.5% MS: 44
-        Farming vs Bots:
+        Free Farming with 0 AP + 4.5% MS: 41
+        Farming vs Bots: 38
         Spell Farming: Q, E
-        Animation Cancels: 10
-        Map Awareness: 10 glances
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
         Anticipation: 
           Use W to dodge a CC
-          Use Crimson Rush to run to safety
-          Use Q and/or R to heal long enough to for help to arrive or to get to safety
+          Use R on both enemies to heal through the gank
+          Use 3rd Q trigger to run from the gank and/or heal through it
+      Swain: 18/0/12
+        Free Farming with 15 AP + 8 Magic Pen: 39
+        Farming vs Bots: 38
+        Spell Farming: Q, W, E, R
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use Q, E, R on the weaker enemy to kill them before you die
+          Use Q or W on the enemy with CC/Red Buff to escape
+          Use R to heal through the gank
+      Fizz: 18/0/12 or 0/18/12
+        Free Farming with 15 AP + 8 Magic Pen: 44
+        Free Farming with 14 AS + 8.5 AD: 44
+        Free Farming with 14 AS + 9 Hybrid Pen: 44
+        Farming vs Bots: 43
+        Spell Farming: Q, W, E
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use E to dodge a CC
+          Use Q on an enemy close to my tower
+          Use R to slow the enemy with CC/Red Buff
+          Use R, Q, W, E to kill the weaker enemy before you die
+      Jax: 18/12/0
+        Free Farming with 14% AS + 8.5 AD: 44
+        Farming vs Bots:
+        Spell Farming: Q, W, R
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use Q on a unit/ward close to my tower
+          Use E to dodge Red Buff and/or stun the enemy champions
+          Use R to survive the gank
+          Use E, W, R, Q to kill the weaker enemy before you die
+    Secondary Champion Pool
       Ekko: 12/0/18
-        Free Farming with 15% AS and 0 AP: 44
+        Free Farming with 15% AS + 0 AP: 44
         Farming vs Bots:
         Spell Farming: Q
         Animation Cancels: 10
@@ -74,14 +119,6 @@ Mechanics Routine – Every Day
           Use Q after they use a slow or speed ability
           Use E to slow the application of red buff
           Use R to get away
-    Secondary Champion Pool
-      Jax: 18/12/0
-        Free Farming with 14% AS + 8.5 AD: 44
-        Farming vs Bots:
-        Spell Farming: Q
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
       Fiora: 12/0/18
         Free Farming with 15 AD: 44 CHECK
         Free Farming with 14% AS + 8.5 AD: 44
@@ -95,13 +132,6 @@ Mechanics Routine – Every Day
           Use W to counter a CC AND stun the enemy with a slow/red buff
           Use E to slow an enemy
           Use R to all in the lower health/less tanky enemy
-      Fizz
-        Free Farming with 15 AP + 8 Magic Pen: 44 
-        Farming vs Bots: 43
-        Spell Farming: Q, W, E
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
       Rumble
         Farming: 42
         Spell Farming: Q and E
