@@ -10,6 +10,12 @@ Smart Goals
         Q
           Dodge an enemy skill shot 4 times in a match by using Q to dash to a minion
         W
+          As Irelia from 4:00 till lane end hit an enemy champion with 5 auto attacks while W is active. Use Q to reset your auto attack 3 times.
+            S: Yes, Focuses on 1 champion and 2 abilities
+            M: Yes, 0/5, 0/3
+            A: Yes, Focuses on my ability usage
+            R: Yes, W is Irelia's main source of damage
+            T: ???
         E
           Flash E to stun someone and get a pick 3 times in a match
         R
@@ -28,7 +34,26 @@ Smart Goals
         W
         E
         R
-      Poppy
+      Vlad
+        Q
+        W
+          As Vlad from 4:00 till game end dodge 7 CC abilities with your W. Use your W to reset tower aggro 3 times. 5/24/2016-5/25/2016
+            S: Yes, Focuses on 1 champion and 1 ability
+            M: Yes, 7/7, 3/3
+            A: 
+        E
+        R
+      Swain
+        Q
+        W
+        E
+        R
+      Fizz
+        Q
+        W
+        E
+        R
+      Jax
         Q
         W
         E
@@ -77,11 +102,6 @@ Smart Goals
             A: Yes, 
             R: Yes, Malphite's ultimate is game changing because it is AoE CC that cannot be reduced by tenacity. It is a great engage tool and also a way to peel.
             T: 3/14/15-3/15/15
-      Fizz
-        Q
-        W
-        E
-        R
   Summoner Spells
     Teleport
     Flash
