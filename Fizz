@@ -1,0 +1,75 @@
+Fizz
+  Runes
+    Top Lane
+      Quints: 3 Attack Speed
+        TODO
+      Reds: 9 Attack Damage
+        TODO
+      Yellows: 9 Armor
+        TODO
+      Blues: 9 Scaling Magic Resistance
+        TODO
+    Top Lane Test
+      Quints: 3 Attack Speed
+      Reds: 9 Hybrid Penetration
+        Extra attack speed is used against more durable opponents, more attack speed leads to more hits from W which makes longer fights more favorable
+      Yellows: 9 Armor
+      Blues: 9 Scaling Magic Resistance
+    Mid Lane
+      Quints: 3 Ability Power
+        TODO
+      Reds: 9 Magic Penetration
+        TODO
+      Yellows: 9 Scaling Health
+        TODO
+      Blues: 9 Magic Resistance
+        TODO
+    Mid Lane Test
+      Quints: 3 Ability Power
+        TODO
+      Reds: 9 Magic Penetration
+        TODO
+      Yellows: 9 Scaling Health
+        TODO
+      Blues: 9 Scaling Ability Power
+        TODO
+  Masteries
+    Setup 1
+      18/0/12
+        Take Fervor of Battle because Irelia itemizes for Attack Speed
+        Take Insight to make laning easier and to make more TP plays
+      18/12/0
+        TODO
+      0/18/12
+        TODO
+  Items
+    Core
+      Trinity Force
+        Irelia is able to trigger Sheen often, mainly with her ultimate. Her Q procs on hit effects so it works well with Sheen and Phage. She benefits from every stat on Trinity Force.
+    Offense
+      Hexdrinker
+        Scales with Q and R. Works well against burst/lots of AP
+      Sterak’s Gage
+        Great 2nd item especially for team-fighting. Helps your Q execute minions later into the game. Good against squishies.
+      Blade of the Ruined King
+        Split push item. Good vs Tanks. Great 1 vs 1 power.
+    Armor
+      Ninja Tabi
+        Good when they don’t have a lot of CC or the CC can be dodged easily. Great rush in lane against physical poke.
+      Thornmail
+        Great for when you’re stacking armor. Buy vs multiple auto attackers or their ADC is their only threat. 4th or 5th item usually.
+      Frozen Heart
+        Good follow up item to a health item. 
+      Randuin’s Omen
+        Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
+      Deadman’s Plate
+        TODO test
+    Magic Resistance
+      Mercury Treads
+        Good vs numerous(how many?) CCs or a reliable hard CC that will frequently be targeted at you
+      Guardian Angel
+        Great late game item, 4th item usually, allows you to dive the backline much easier
+      Spirit Visage
+        Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
+  Matchups
+  
