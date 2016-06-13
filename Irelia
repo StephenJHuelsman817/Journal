@@ -2,57 +2,77 @@ Irelia
   Runes
     Standard
       Quints: 3 Attack Speed
-        Scale well with her W which is her main source of damage and is frequently maxed first, scales well with Rageblade and BOTRK, helps last hit
-      Reds: 9 Attack Damage
-        Scales well with her Q and R, scales well with Trinity and Ghostblade, good vs fragile opponents helps last hit
+        Scale well with her W which is her main source of damage and is almost always maxed first, scales well with Fervor and BOTRK, helps last hit, helps kill towers, helps kill jungle camps
+      Reds: 9 Attack Speed
+        See Quints
       Yellows: 9 Scaling Armor Yellows
-        Scales well with her W, generally plays a passively in lane before level 4
+        Scales well with her W, generally plays passively in lane before level 4
       Blues: 9 Scaling Magic Resistance
         Scales well with her W, most early magic damage can be mitigated by sustain or dodging their abilities
-    Vs Tanks
-      Quints: 3 Attack Speed
-      Reds: 9 Attack Speed
-        Extra attack speed is used against more durable opponents, more attack speed leads to more hits from W which makes longer fights more favorable
-      Yellows: 9 Scaling Armor Yellows
-      Blues: 9 Scaling Magic Resistance
   Masteries
-    Setup 1
+    Standard
       18/0/12
         Take Fervor of Battle because Irelia itemizes for Attack Speed
         Take Insight to make laning easier and to make more TP plays
   Items
-  Core
-    Trinity Force
-      Irelia is able to trigger Sheen often, mainly with her ultimate. Her Q procs on hit effects so it works well with Sheen and Phage. She benefits from every stat on Trinity Force.
-  Offense
-    Hexdrinker
-      Scales with Q and R. Works well against burst/lots of AP
-    Sterak’s Gage
-      Great 2nd item especially for team-fighting. Helps your Q execute minions later into the game. Good against squishies.
-    Blade of the Ruined King
-      Split push item. Good vs Tanks. Great 1 vs 1 power.
-  Armor
-    Ninja Tabi
-      Good when they don’t have a lot of CC or the CC can be dodged easily. Great rush in lane against physical poke.
-    Thornmail
-      Great for when you’re stacking armor. Buy vs multiple auto attackers or their ADC is their only threat. 4th or 5th item usually.
-    Frozen Heart
-      Good follow up item to a health item. 
-    Randuin’s Omen
-      Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
-    Deadman’s Plate
-      TODO test
-  Magic Resistance
-    Mercury Treads
-      Good vs numerous(how many?) CCs or a reliable hard CC that will frequently be targeted at you
-    Guardian Angel
-      Great late game item, 4th item usually, allows you to dive the backline much easier
-    Spirit Visage
-      Good as a follow up to Trinity, Health + Resistance Items make you the tankiest in the mid game
+    Core
+      Trinity Force
+        Irelia is able to trigger Sheen often, mainly with her ultimate. Her Q procs on hit effects so it works well with Sheen and Phage. She benefits from every stat on Trinity Force.
+    Offense
+      Boots of Swiftness
+        Good when split-pushing because the mobility helps escape ganks and rotate
+        Good when snowballing because it allows you to chase your enemies down
+        Consider buying it vs teams that can kite you effectively
+      Berserker's Greaves
+        TODO Test
+      Sterak’s Gage
+        TODO Test with Frozen Heart
+        Good against squishies
+        Great 2nd item especially for team-fighting
+        Helps your Q execute minions later into the game
+      Blade of the Ruined King
+        Scales well with Q and W
+        Good when split=pushing/dueling
+        Good vs tanks/health stackers, Rylai's + Rod
+    Armor
+      Ninja Tabi
+        Good when they don’t have a lot of CC or the CC can be dodged easily. Great rush in lane against physical poke.
+      Frozen Heart
+        Good vs 3+ Auto Attackers
+        Good follow up item to a health item
+        Good follow up to Trinity because it CDR caps you
+      Randuin’s Omen
+        Health + Resistance Items make you the tankiest in the mid game
+        Good as a follow up to Trinity for team fights
+        Good vs Yasuo/Vayne/ADCs with Crit
+        Scales well into late game
+      Deadman’s Plate
+        TODO test Mid-Game Item?
+    Magic Resistance
+      Mercury Treads
+        Good vs numerous(how many?) CCs or a reliable hard CC that will frequently be targeted at you
+        Good vs double/triple AP
+      Guardian Angel
+        Good for diving
+        Good vs hybird damage
+        Can be your MR item when stacking armor
+      Banshee's Veil
+        TODO
+      Wit's End
+        TODO Test
+      Spirit Visage
+        Health + Resistance Items make you the tankiest in the mid game
+        Passive works well with her kit
+        Good when you have a healing support
+      Maw of Malmortius
+        Scales with Q and R
+        Works well against burst/lots of AP
+        TODO Test Could be 2nd gamage item vs squishes
+        TODO When to upgrade from hexdrinker?
   Matchups
     Renekton
     Nasus
     Hecarim
     Jax
     Rumble
-
+    Fizz
