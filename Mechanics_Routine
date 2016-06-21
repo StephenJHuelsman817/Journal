@@ -1,7 +1,7 @@
 Mechanics Routine – Every Day
   Duration: 30 minutes, 5 minutes per champion, remainder of time is to be used on osu!
   Use the champions you plan to play that day and/or the champion you are learning
-  In 5 minute duration max score is 44, 10 minute duration is 107(subject to change)
+  In 5 minute duration max score is 44, 10 minute duration is 107
   Training Goals
     Free Farming
       Last hit as many creeps as possible
@@ -32,11 +32,26 @@ Mechanics Routine – Every Day
           15 glances: 44 CHECK
           20 glances: 44 CHECK
         Anticipation
-          Use E, W, R, Q on the weaker enemy to kill them before you die
-          Use Q to dash to a minion/champion that is close to my tower
+          All-in the weaker enemy (Skill Order: E, W, R, Q)
           Use E on the enemy with a slow/red buff
+          Use Q on an enemy close to my tower
           Use R to heal through the gank
-      Trundle: 12/0/18
+      Fizz: 18/0/12 or 0/18/12
+        Free Farming with 14 AS + 9 Hybrid Pen: 42
+        Free Farming with 14 AS + 8.5 AD: 44
+        Free Farming with 15 AP + 8 Magic Pen: 44
+        Farming vs Bots: 43
+        Spell Farming: Q, W, E
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use E to dodge a CC and/or get away
+          Use Q on an enemy close to my tower
+          Use R to slow the enemy with CC/Red Buff
+          All-in the weaker enemy (Skill Order: R, W, Q, E)
+      Trundle: 12/0/18 or 18/0/12
         Free Farming with 14% AS + 8.5 AD: 44 CHECK
         Free Farming with 9% AS + 8.5 AD: 44
         Spell Farming: Q
@@ -47,10 +62,36 @@ Mechanics Routine – Every Day
         Anticipation
           Use W to run away from the gank
           Use E on/near the champion with CC to escape
+          All-in the weaker enemy (Skill Order: W, R, Q, E)
           Use R on the tankier champion so you can survive the gank
-          Use R on the lower health champion so you can kill them before you die
+      Jax: 18/12/0
+        Free Farming with 14% AS + 8.5 AD: 43
+        Farming vs Bots: 38
+        Spell Farming: Q, W, R
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use R to survive the gank
+          Use Q on a unit/ward close to my tower
+          All-in the weaker enemy (Skill Order: E, R, W, Q)
+          Use E to dodge Red Buff and/or stun the enemy champions
+      Hecarim: 18/0/12
+        Free Farming with 4.5% MS + 12 ArPen: 43
+        Farming vs Bots: 38
+        Spell Farming: Q, W
+        Animation Cancels
+          Farming with 10 cancels: 44
+        Map Awareness
+          Farming with 10 glances: 44
+        Anticipation
+          Use E to run away from the gank
+          Use R to negate their CC and/or get away
+          All-in the weaker enemy (Skill Order: Q, W, R, E)
+    Secondary Champion Pool
       Vlad: 0/18/12
-        Free Farming with 0 AP + 4.5% MS: 41
+        Free Farming with 0 AP + 4.5% MS: 42
         Farming vs Bots: 38
         Spell Farming: Q, E
         Animation Cancels
@@ -58,50 +99,22 @@ Mechanics Routine – Every Day
         Map Awareness
           Farming with 10 glances: 44
         Anticipation: 
-          Use W to dodge a CC
+          Use W to dodge a CC and/or get away
           Use R on both enemies to heal through the gank
+          All-in the weaker enemy (Skill Order: R, E, Q, W)
           Use 3rd Q trigger to run from the gank and/or heal through it
-      Swain: 18/0/12
+      Swain: 18/12/0
         Free Farming with 15 AP + 8 Magic Pen: 39
         Farming vs Bots: 38
-        Spell Farming: Q, W, E, R
-        Animation Cancels
-          Farming with 10 cancels: 44
-        Map Awareness
-          Farming with 10 glances: 44
-        Anticipation
-          Use Q, E, R on the weaker enemy to kill them before you die
-          Use Q or W on the enemy with CC/Red Buff to escape
-          Use R to heal through the gank
-      Fizz: 18/0/12 or 0/18/12
-        Free Farming with 15 AP + 8 Magic Pen: 44
-        Free Farming with 14 AS + 8.5 AD: 44
-        Free Farming with 14 AS + 9 Hybrid Pen: 44
-        Farming vs Bots: 43
-        Spell Farming: Q, W, E
-        Animation Cancels
-          Farming with 10 cancels: 44
-        Map Awareness
-          Farming with 10 glances: 44
-        Anticipation
-          Use E to dodge a CC
-          Use Q on an enemy close to my tower
-          Use R to slow the enemy with CC/Red Buff
-          Use R, Q, W, E to kill the weaker enemy before you die
-      Jax: 18/12/0
-        Free Farming with 14% AS + 8.5 AD: 44
-        Farming vs Bots:
         Spell Farming: Q, W, R
         Animation Cancels
           Farming with 10 cancels: 44
         Map Awareness
           Farming with 10 glances: 44
         Anticipation
-          Use Q on a unit/ward close to my tower
-          Use E to dodge Red Buff and/or stun the enemy champions
-          Use R to survive the gank
-          Use E, W, R, Q to kill the weaker enemy before you die
-    Secondary Champion Pool
+          Use Q or W on the enemy with CC/Red Buff to escape
+          All-in the weaker enemy (Skill Order: E, R, Q, W)
+          Use R to heal through the gank
       Ekko: 12/0/18
         Free Farming with 15% AS + 0 AP: 44
         Farming vs Bots:
@@ -132,17 +145,3 @@ Mechanics Routine – Every Day
           Use W to counter a CC AND stun the enemy with a slow/red buff
           Use E to slow an enemy
           Use R to all in the lower health/less tanky enemy
-      Rumble
-        Farming: 42
-        Spell Farming: Q and E
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
-        Use W to run away and E to slow down the enemy with CC
-      Gangplank
-        Free Farming with 15 AD: 44
-        Farming vs Bots: 43
-        Spell Farming: Q and W
-        Animation Cancels: 10
-        Map Awareness: 10 glances
-        Anticipation: 2 Plans to escape from a gank
